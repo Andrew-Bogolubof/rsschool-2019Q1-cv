@@ -35,7 +35,7 @@ from books: “*Head First PHP & MySQL*” by Lynn Beighley,
 Michael Morrison, “*C++ Primer Plus*” by Stephen Prata, 
 “*The Modern Javascript 
 Tutorial*”.
-8. Knowledge of English (B1). I have a good level of 
+8. **Knowledge of English (B1)**. I have a good level of 
 written and speaking English. I have classes once a week 
 with a tutor. Also, I attend speaking clubs 2-3 times a 
 week. And I also learn English with Lingualeo.com 
