@@ -3,6 +3,7 @@ body {
   margin: 0 auto;
   background: #df55001c;
   border: 2px white solid;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
@@ -19,6 +20,7 @@ h1 {
   top: 50%;
   transform: translate(-50%, -50%);
   margin: 0 auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 li {
