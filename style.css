@@ -1,14 +1,14 @@
 body {
   max-width: 1024px;
   margin: 0 auto;
-  background: #df55001c;
+  background: #f1ccb4c4;
   border: 2px white solid;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
   position: relative;
-  background: #572b0fc4;
+  background: #411e08f3;
   color: #d4c6c6;
   height: 60px;
 }
