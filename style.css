@@ -20,7 +20,10 @@ h1 {
   top: 50%;
   transform: translate(-50%, -50%);
   margin: 0 auto;
+  padding: 3px 25px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-top: white 1px solid;
+  border-bottom: white 1px solid;
 }
 
 li {
