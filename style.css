@@ -1,6 +1,31 @@
 body {
   max-width: 1024px;
   margin: 0 auto;
-  background: #110c091c;
+  background: #df55001c;
   border: 2px white solid;
+}
+
+header {
+  position: relative;
+  background: #572b0fc4;
+  color: #d4c6c6;
+  height: 60px;
+}
+
+h1 {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+}
+
+li {
+  margin: 10px 0;
+  clear: left;
+}
+
+.photo {
+  float: right;
 }
